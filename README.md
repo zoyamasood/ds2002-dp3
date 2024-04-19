@@ -58,7 +58,7 @@ messages = [
     {"order":1, "word":"quick"},
 ]
 ```
-If put these dictionaries into order `[0,1,2,3]` you can read the phrase `The quick brown fox`.
+If you put these dictionaries into order `[0,1,2,3]` you can read the phrase `The quick brown fox`.
 
 Be sure your python outputs the correctly ordered phrase. You may then copy and paste it into `phrase.txt`.
 
