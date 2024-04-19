@@ -9,7 +9,7 @@ Short instructions: You have been given your own SQS queue, and some AWS credent
 1. Retrieves the messages that have been published to your queue. There are 10 in total.
 2. Each message contains two custom `MessageAttributes`: `order` and `word`. For instance, one message might contain an order of `3` and a word of `what`.
 3. You should determine some method for storing these values as a pair. There are many options: in a Python collection object, in a text file, an SQL database, a MongoDB collection, etc.
-4. Once you have picked up your messages, your python should reassemble the words by using the `order` value. This will reveal a phrase that you should then manually enter into the `phrase.txt` file. DO NOT reassemble the messages by hand.
+4. Once you have picked up your messages, your python should reassemble the words by using the `order` value. This will reveal a phrase that you should then copy and paste into the `phrase.txt` file. DO NOT reassemble the messages by hand.
 5. Finally, your python should delete all messages after processing. This should not be done by hand.
 
 
