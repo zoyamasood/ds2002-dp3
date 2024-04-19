@@ -1,0 +1,3 @@
+tasks:
+  - name: pip
+    command: pip install -r requirements.txt
