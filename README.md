@@ -64,7 +64,7 @@ Be sure your python outputs the correctly ordered phrase. You may then copy and 
 
 ## Deleting Messages
 
-A function has been given to you to delete a messaging using its `ReceiptHandle`. Be sure to use this for the final run of your code.
+A function has been given to you to delete each message using its `ReceiptHandle`. Be sure to use this for the final run of your code.
 
 You will be penalized if any messages remain in your queue after your script runs.
 
