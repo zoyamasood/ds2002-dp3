@@ -4,7 +4,7 @@ This programming assignment makes use of your Python skills to interact with an 
 
 You are allowed to work on this project with one other person, if you want to. But that is not required. See the "Submission & Grading" section at the bottom for instructions.
 
-Short instructions: You have been given your own SQS queue, and some AWS credentials to use. Write python that does the following:
+Short instructions: You have been given your own SQS queue, and some AWS credentials to use. Write a single python script that does the following:
 
 1. Retrieves the messages that have been published to your queue. There are 10 in total.
 2. Each message contains two custom `MessageAttributes`: `order` and `word`. For instance, one message might contain an order of `3` and a word of `what`.
