@@ -2,7 +2,7 @@
 
 This programming assignment makes use of your Python skills to interact with an Amazon SQS messaging queue.
 
-You are allowed to work on this project with one other person, if you want to. But that is not required. See the "Submission & Grading" section at the bottom for instructions.
+> NOTE: You are allowed to work on this project with one other person, if you want to. But that is not required. See the "Submission & Grading" section at the bottom for instructions.
 
 Short instructions: You have been given your own SQS queue, and some AWS credentials to use. Write a single python script that does the following:
 
